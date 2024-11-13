@@ -1,5 +1,3 @@
-# bert-text-classifier
-
 # BERT Text Classifier
 This project fine-tunes BERT on a text classification task using Hugging Face and PyTorch.
 
